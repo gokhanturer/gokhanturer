@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhanturer" alt="gokhanturer" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning / Deep Learning / NLP**
+- 🔭 I’m currently working on **Machine Learning / Deep Learning / NLP / LLM**
 
-- 🌱 I’m currently learning **Scikit-Learn | SciPy | Tensorflow | Keras**
+- 🌱 Lifelong learner
 
 - 📫 How to reach me **mgturer@gmail.com**
 
