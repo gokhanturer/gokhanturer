@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gökhan TÜRER</h1>
-<h3 align="center">A passionate Data Scientist from Turkey.</h3>
+<h3 align="center">A passionate AI Engineer from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhanturer&label=Profile%20views&color=0e75b6&style=flat" alt="gokhanturer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhanturer" alt="gokhanturer" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning / Deep Learning / NLP / LLM**
+- 🔭 I’m currently working on **Machine Learning / Deep Learning / NLP / LLM / Agentic AI**
 
 - 🌱 Lifelong learner
 
